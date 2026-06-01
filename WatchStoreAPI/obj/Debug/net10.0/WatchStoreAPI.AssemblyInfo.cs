@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WatchStoreAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+361e2a53c7de9560ba05ff53dfd0b3feb92d7ff0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+343730fc85832edb7bad0f637abd2ac0e5150ee9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WatchStoreAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WatchStoreAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
